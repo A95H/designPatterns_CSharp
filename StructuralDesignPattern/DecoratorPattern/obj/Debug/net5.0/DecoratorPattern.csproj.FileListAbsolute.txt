@@ -1,0 +1,15 @@
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/bin/Debug/net5.0/DecoratorPattern.deps.json
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/bin/Debug/net5.0/DecoratorPattern.runtimeconfig.json
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/bin/Debug/net5.0/DecoratorPattern.runtimeconfig.dev.json
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/bin/Debug/net5.0/DecoratorPattern.dll
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/bin/Debug/net5.0/ref/DecoratorPattern.dll
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/bin/Debug/net5.0/DecoratorPattern.pdb
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.csprojAssemblyReference.cache
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.AssemblyInfoInputs.cache
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.AssemblyInfo.cs
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.csproj.CoreCompileInputs.cache
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.dll
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/obj/Debug/net5.0/ref/DecoratorPattern.dll
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.pdb
+/Users/ali/designPatternCSharp/StructuralDesignPattern/DecoratorPattern/obj/Debug/net5.0/DecoratorPattern.genruntimeconfig.cache

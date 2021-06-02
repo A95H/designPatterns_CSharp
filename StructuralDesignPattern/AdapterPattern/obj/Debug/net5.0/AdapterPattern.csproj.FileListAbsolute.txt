@@ -1,0 +1,15 @@
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/bin/Debug/net5.0/AdapterPattern.deps.json
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/bin/Debug/net5.0/AdapterPattern.runtimeconfig.json
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/bin/Debug/net5.0/AdapterPattern.runtimeconfig.dev.json
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/bin/Debug/net5.0/AdapterPattern.dll
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/bin/Debug/net5.0/ref/AdapterPattern.dll
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/bin/Debug/net5.0/AdapterPattern.pdb
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.csprojAssemblyReference.cache
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.AssemblyInfoInputs.cache
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.AssemblyInfo.cs
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.csproj.CoreCompileInputs.cache
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.dll
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/obj/Debug/net5.0/ref/AdapterPattern.dll
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.pdb
+/Users/ali/designPatternCSharp/StructuralDesignPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.genruntimeconfig.cache

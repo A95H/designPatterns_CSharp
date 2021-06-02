@@ -1,0 +1,15 @@
+/Users/ali/designPatternCSharp/BuilderPattern/bin/Debug/net5.0/BuilderPattern.deps.json
+/Users/ali/designPatternCSharp/BuilderPattern/bin/Debug/net5.0/BuilderPattern.runtimeconfig.json
+/Users/ali/designPatternCSharp/BuilderPattern/bin/Debug/net5.0/BuilderPattern.runtimeconfig.dev.json
+/Users/ali/designPatternCSharp/BuilderPattern/bin/Debug/net5.0/BuilderPattern.dll
+/Users/ali/designPatternCSharp/BuilderPattern/bin/Debug/net5.0/ref/BuilderPattern.dll
+/Users/ali/designPatternCSharp/BuilderPattern/bin/Debug/net5.0/BuilderPattern.pdb
+/Users/ali/designPatternCSharp/BuilderPattern/obj/Debug/net5.0/BuilderPattern.csprojAssemblyReference.cache
+/Users/ali/designPatternCSharp/BuilderPattern/obj/Debug/net5.0/BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/designPatternCSharp/BuilderPattern/obj/Debug/net5.0/BuilderPattern.AssemblyInfoInputs.cache
+/Users/ali/designPatternCSharp/BuilderPattern/obj/Debug/net5.0/BuilderPattern.AssemblyInfo.cs
+/Users/ali/designPatternCSharp/BuilderPattern/obj/Debug/net5.0/BuilderPattern.csproj.CoreCompileInputs.cache
+/Users/ali/designPatternCSharp/BuilderPattern/obj/Debug/net5.0/BuilderPattern.dll
+/Users/ali/designPatternCSharp/BuilderPattern/obj/Debug/net5.0/ref/BuilderPattern.dll
+/Users/ali/designPatternCSharp/BuilderPattern/obj/Debug/net5.0/BuilderPattern.pdb
+/Users/ali/designPatternCSharp/BuilderPattern/obj/Debug/net5.0/BuilderPattern.genruntimeconfig.cache

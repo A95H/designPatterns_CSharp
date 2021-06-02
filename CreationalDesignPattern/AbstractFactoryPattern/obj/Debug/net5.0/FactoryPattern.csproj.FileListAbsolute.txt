@@ -1,0 +1,15 @@
+/Users/ali/designPatternCSharp/FactoryPattern/bin/Debug/net5.0/FactoryPattern.deps.json
+/Users/ali/designPatternCSharp/FactoryPattern/bin/Debug/net5.0/FactoryPattern.runtimeconfig.json
+/Users/ali/designPatternCSharp/FactoryPattern/bin/Debug/net5.0/FactoryPattern.runtimeconfig.dev.json
+/Users/ali/designPatternCSharp/FactoryPattern/bin/Debug/net5.0/FactoryPattern.dll
+/Users/ali/designPatternCSharp/FactoryPattern/bin/Debug/net5.0/ref/FactoryPattern.dll
+/Users/ali/designPatternCSharp/FactoryPattern/bin/Debug/net5.0/FactoryPattern.pdb
+/Users/ali/designPatternCSharp/FactoryPattern/obj/Debug/net5.0/FactoryPattern.csprojAssemblyReference.cache
+/Users/ali/designPatternCSharp/FactoryPattern/obj/Debug/net5.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/designPatternCSharp/FactoryPattern/obj/Debug/net5.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/ali/designPatternCSharp/FactoryPattern/obj/Debug/net5.0/FactoryPattern.AssemblyInfo.cs
+/Users/ali/designPatternCSharp/FactoryPattern/obj/Debug/net5.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/ali/designPatternCSharp/FactoryPattern/obj/Debug/net5.0/FactoryPattern.dll
+/Users/ali/designPatternCSharp/FactoryPattern/obj/Debug/net5.0/ref/FactoryPattern.dll
+/Users/ali/designPatternCSharp/FactoryPattern/obj/Debug/net5.0/FactoryPattern.pdb
+/Users/ali/designPatternCSharp/FactoryPattern/obj/Debug/net5.0/FactoryPattern.genruntimeconfig.cache
